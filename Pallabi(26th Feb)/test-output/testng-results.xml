@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T14:25:04 IST" name="Suite" finished-at="2024-02-13T14:25:12 IST" duration-ms="7405">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T14:25:04 IST" name="Test" finished-at="2024-02-13T14:25:12 IST" duration-ms="7405">
+      <class name="API_TESTING.Access_Token">
+        <test-method signature="create_Token()[pri:0, instance:API_TESTING.Access_Token@58695725]" started-at="2024-02-13T14:25:05 IST" name="create_Token" finished-at="2024-02-13T14:25:09 IST" duration-ms="4221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Token -->
+      </class> <!-- API_TESTING.Access_Token -->
+      <class name="API_TESTING.Update_Booking">
+        <test-method signature="updateBooking()[pri:0, instance:API_TESTING.Update_Booking@d5b810e]" started-at="2024-02-13T14:25:10 IST" name="updateBooking" finished-at="2024-02-13T14:25:12 IST" duration-ms="1546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBooking -->
+      </class> <!-- API_TESTING.Update_Booking -->
+      <class name="API_TESTING.Create_Booking">
+        <test-method signature="createBooking()[pri:0, instance:API_TESTING.Create_Booking@2ed2d9cb]" started-at="2024-02-13T14:25:09 IST" name="createBooking" finished-at="2024-02-13T14:25:10 IST" duration-ms="1568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+      </class> <!-- API_TESTING.Create_Booking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
